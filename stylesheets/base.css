@@ -59,6 +59,9 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+div.Links {
+		text-align: right;
+		}
 
 /* #Typography
 ================================================== */
